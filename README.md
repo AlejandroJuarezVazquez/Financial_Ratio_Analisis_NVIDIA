@@ -37,4 +37,4 @@ This ratio is exceptionally strong in 2022 and 2021, though no value is reported
 
 The leverage ratio has fluctuated, peaking at 6.96 in 2022 and dropping to 6.41 in 2024. This higher leverage ratio indicates that a larger portion of NVIDIA's assets is funded by equity. The slight reduction in 2024 suggests a more balanced approach to equity and debt financing.
 
-## **Solvency**
+## **Rotation**
