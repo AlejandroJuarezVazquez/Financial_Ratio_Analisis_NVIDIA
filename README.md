@@ -90,7 +90,7 @@ The net margin has been stable, hovering between 0.24 and 0.26 over the years. N
 
 ![ROA_ROE_ApalancamientoGrafico](https://github.com/user-attachments/assets/47d1c373-f4d9-424a-a231-cf0ebc5def8a)
 
-**Apilated Bars Graphics ROA, ROA-ROE & Leverage**
+**Apilated Bars Graphics ROA, ROE-ROA & Leverage**
 
 ![Utilidad_Operativa_Grafico](https://github.com/user-attachments/assets/b184f57a-c7a2-4d50-b365-3968c64e8331)
 
