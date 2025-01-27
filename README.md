@@ -19,6 +19,7 @@ This ratio shows a diminution from 8.68 in 2023 to 6.98 in 2024. Due to the excl
 **3.Cash Ratio (Cash Ratio)**
 
 This ratio shows a diminution from 4.01 in 2021 to 3.12 in 2024, which indicates the cash proportion is lower than before. It can be due to using it for operations, debt pay, or acquisitions.
+
 **4.Working Capital to Total Assets Ratio (KTSA)**
 
 This ratio has remained constant between 0.32 and 0.36 during this time. This suggests that NVIDIA keeps an equilibrated administration of its work capital depending on the structure of its assets.
