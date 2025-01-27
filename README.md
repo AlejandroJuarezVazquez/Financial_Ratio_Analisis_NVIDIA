@@ -65,6 +65,18 @@ The cash conversion cycle (CCC) has fluctuated, moving from a positive 8.03 days
 
 ## **Profitability**
 
+**1.Return on Assets (ROA)**
 
+OA has remained relatively stable, ranging between 0.26 in 2024 and 0.28 in 2022 and 2023. NVIDIA efficiently generates net income from its assets, maintaining consistency over the years. This reflects effective asset utilization in producing profits.
 
+**2.Return on Equity (ROE)**
 
+ROE shows some fluctuations, peaking at 1.97 in 2022 and declining to 1.65 in 2024. NVIDIA generates significant returns for shareholders, but the slight decrease from 2022 to 2024 may indicate increased equity or reduced profitability relative to equity.
+
+**3.Gross Profit Margin (Margen de Utilidad Bruta)**
+
+The gross margin has varied, peaking at 3.37 in 2022 and declining to 3.17 in 2024, though still higher than 2.72 in 2023. NVIDIA's ability to manage production costs and pricing remains strong. However, the slight decline from 2022 suggests minor cost pressures or pricing adjustments.
+
+**4.Net Profit Margin (Margen de Utilidad Neta)**
+
+The net margin has been stable, hovering between 0.24 and 0.26 over the years. NVIDIA consistently converts a substantial portion of its sales into net income, demonstrating strong overall profitability and cost management.
