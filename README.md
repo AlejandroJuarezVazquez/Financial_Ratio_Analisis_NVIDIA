@@ -38,3 +38,33 @@ This ratio is exceptionally strong in 2022 and 2021, though no value is reported
 The leverage ratio has fluctuated, peaking at 6.96 in 2022 and dropping to 6.41 in 2024. This higher leverage ratio indicates that a larger portion of NVIDIA's assets is funded by equity. The slight reduction in 2024 suggests a more balanced approach to equity and debt financing.
 
 ## **Rotation**
+
+**1.Asset Turnover Ratio (Rotacion de Activos)**
+
+The asset turnover ratio has remained stable, ranging from 1.04 in 2021 to 1.12 in 2022, with a slight decline to 1.07 in 2024. NVIDIA maintains consistent efficiency in generating sales from its total assets, with minor variations likely reflecting changes in asset utilization or revenue growth.
+
+**2.Inventory Turnover Ratio (Rotacion de Inventario)**
+
+This ratio peaked at 45.2 in 2022, indicating very efficient inventory management, but decreased to 28.87 in 2024. The decline may suggest slower inventory movement, possibly due to increased inventory levels or lower sales growth compared to previous years.
+
+**3.Average Inventory Period (Periodo Promedio de Inventario)**
+
+This period has increased from 8.08 days in 2022 to 12.64 days in 2024. The longer inventory holding period in 2024 indicates a slower inventory cycle, potentially tying up capital in stock for extended periods.
+
+**4.Average Collection Period (Periodo Promedio de Inventario)**
+
+The collection period has lengthened from 51.39 days in 2021 to 61.83 days in 2024. A longer collection period suggests a delay in receiving payments from customers, which could impact cash flow management.
+
+**5.Average Payment Period (Periodo Promedio de Inventario)**
+
+The payment period has increased significantly from 54.64 days in 2021 to 89.2 days in 2024. NVIDIA is taking longer to pay its suppliers, potentially as a strategy to conserve cash or leverage supplier terms.
+
+**6.Cash Conversion Cycle (Periodo Promedio de Inventario)**
+
+The cash conversion cycle (CCC) has fluctuated, moving from a positive 8.03 days in 2021 to a negative value of -14.72 days in 2024. A negative CCC in 2024 indicates that NVIDIA collects cash from customers before paying suppliers, improving liquidity and working capital efficiency. This is a favorable trend for operational cash flow.
+
+## **Profitability**
+
+
+
+
