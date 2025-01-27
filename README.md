@@ -1,5 +1,7 @@
 # Financial_Ratio_Analisis_NVIDIA
-In this project, I show Financial Ratios and their formulas from the last 4 fiscal years from Nvidia, one of the biggest and most important companies in the world nowadays.
+In this project, I show Financial Ratios and their formulas from the last 4 fiscal years from Nvidia, one of the biggest and most important companies in the world nowadays. 
+
+I used a lot of tools for this analysis, such as Python and Pandas for downloading the financial states by using the Yahoo Finance API. Then, I used Excel for the analysis with all the financial ratios.
 
 # Financial Ratios
 The results from the analysis are the following:
@@ -18,7 +20,7 @@ This ratio shows a diminution from 8.68 in 2023 to 6.98 in 2024. Due to the excl
 
 **3.Cash Ratio (Cash Ratio)**
 
-This ratio shows a diminution from 4.01 in 2021 to 3.12 in 2024, which indicates the cash proportion is lower than before. It can be due to using it for operations, debt pay, or acquisitions.
+This ratio diminishes from 4.01 in 2021 to 3.12 in 2024, indicating the cash proportion is lower than before. It can be due to using it for operations, debt pay, or acquisitions.
 
 **4.Working Capital to Total Assets Ratio (KTSA)**
 
@@ -42,7 +44,7 @@ The leverage ratio has fluctuated, peaking at 6.96 in 2022 and dropping to 6.41 
 
 **1.Asset Turnover Ratio (Rotacion de Activos)**
 
-The asset turnover ratio has remained stable, ranging from 1.04 in 2021 to 1.12 in 2022, with a slight decline to 1.07 in 2024. NVIDIA maintains consistent efficiency in generating sales from its total assets, with minor variations likely reflecting changes in asset utilization or revenue growth.
+The asset turnover ratio has remained stable, from 1.04 in 2021 to 1.12 in 2022, with a slight decline to 1.07 in 2024. NVIDIA maintains consistent efficiency in generating sales from its total assets, with minor variations likely reflecting changes in asset utilization or revenue growth.
 
 **2.Inventory Turnover Ratio (Rotacion de Inventario)**
 
