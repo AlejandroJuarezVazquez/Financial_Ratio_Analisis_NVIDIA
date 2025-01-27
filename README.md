@@ -80,3 +80,18 @@ The gross margin has varied, peaking at 3.37 in 2022 and declining to 3.17 in 20
 **4.Net Profit Margin (Margen de Utilidad Neta)**
 
 The net margin has been stable, hovering between 0.24 and 0.26 over the years. NVIDIA consistently converts a substantial portion of its sales into net income, demonstrating strong overall profitability and cost management.
+
+# Graphics and Auxiliary Tables
+
+![RazonCirculanteGrafico](https://github.com/user-attachments/assets/325b48d5-cc27-4968-963d-cffc9cc26530)
+
+**Current Ratio Area Graphic**
+
+![ROA_ROE_ApalancamientoGrafico](https://github.com/user-attachments/assets/47d1c373-f4d9-424a-a231-cf0ebc5def8a)
+
+**Apilated Bars Graphics ROA, ROA-ROE & Leverage**
+
+![Utilidad_Operativa_Grafico](https://github.com/user-attachments/assets/b184f57a-c7a2-4d50-b365-3968c64e8331)
+
+**Cascade Graphic on Operative Utility**
+
