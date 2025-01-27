@@ -51,15 +51,15 @@ This ratio peaked at 45.2 in 2022, indicating very efficient inventory managemen
 
 This period has increased from 8.08 days in 2022 to 12.64 days in 2024. The longer inventory holding period in 2024 indicates a slower inventory cycle, potentially tying up capital in stock for extended periods.
 
-**4.Average Collection Period (Periodo Promedio de Inventario)**
+**4.Average Collection Period (Periodo Promedio de Cobro)**
 
 The collection period has lengthened from 51.39 days in 2021 to 61.83 days in 2024. A longer collection period suggests a delay in receiving payments from customers, which could impact cash flow management.
 
-**5.Average Payment Period (Periodo Promedio de Inventario)**
+**5.Average Payment Period (Periodo Promedio de Pago)**
 
 The payment period has increased significantly from 54.64 days in 2021 to 89.2 days in 2024. NVIDIA is taking longer to pay its suppliers, potentially as a strategy to conserve cash or leverage supplier terms.
 
-**6.Cash Conversion Cycle (Periodo Promedio de Inventario)**
+**6.Cash Conversion Cycle (Ciclo de Conversion de Efectivo)**
 
 The cash conversion cycle (CCC) has fluctuated, moving from a positive 8.03 days in 2021 to a negative value of -14.72 days in 2024. A negative CCC in 2024 indicates that NVIDIA collects cash from customers before paying suppliers, improving liquidity and working capital efficiency. This is a favorable trend for operational cash flow.
 
