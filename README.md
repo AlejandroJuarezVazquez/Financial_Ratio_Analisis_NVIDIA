@@ -1,13 +1,13 @@
 # Financial_Ratio_Analisis_NVIDIA
 In this project, I show Financial Ratios and their formulas from the last 4 fiscal years from NVIDIA using Financial Statements, one of the biggest and most important companies in the world nowadays. 
 
-I also included an analysis for the cash flow.
+I also included an analysis of the cash flow focused on 2023 and 2024. This is because, with the first analysis, the insights found motivated this due to the high improve from year to year.
 
-I used a lot of tools for this analysis, such as Python and Pandas for downloading the financial states by using the Yahoo Finance API. Then, I used Excel for the analysis with all the financial ratios.
+I used a lot of tools for this analysis, such as Python and Pandas for downloading the financial states by using the Yahoo Finance API. Then, I used Excel for the study with all the financial ratios.
 
 # Financial Statements
 
-The NVIDIA's Financial Statements can be found on the Yahoo! Finance site. This is the link:
+NVIDIA's Financial Statements can be found on the Yahoo! Finance site. This is the link:
 
 https://finance.yahoo.com/quote/NVDA/financials/
 
