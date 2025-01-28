@@ -67,41 +67,41 @@ The asset turnover ratio has increased from 0.65 in 2023 to 0.93 in 2024. NVIDIA
 
 **2.Inventory Turnover Ratio (Rotacion de Inventario)**
 
-This ratio peaked at 3.62 in 2022, indicating very efficient inventory management, but decreased to 28.87 in 2024. The decline may suggest slower inventory movement, possibly due to increased inventory levels or lower sales growth compared to previous years.
+This ratio peaked at 3.62 in 2022, on 2024 it closed on 3.15. It shows a small diminution on inventory rotation but not even that changes that inventory rotated more than 3 times on  year
 
 **3.Average Inventory Period (Periodo Promedio de Inventario)**
 
-This period has increased from 8.08 days in 2022 to 12.64 days in 2024. The longer inventory holding period in 2024 indicates a slower inventory cycle, potentially tying up capital in stock for extended periods.
+This period has decreased from 162 days in 2023 to 116 days in 2024. The smaller inventory holding period in 2024 indicates a faster inventory cycle.
 
 **4.Average Collection Period (Periodo Promedio de Cobro)**
 
-The collection period has lengthened from 51.39 days in 2021 to 61.83 days in 2024. A longer collection period suggests a delay in receiving payments from customers, which could impact cash flow management.
+The collection period has lengthened from 52 days in 2023 to 60 days in 2024. A longer collection period suggests a delay in receiving payments from customers, which could impact cash flow management.
 
 **5.Average Payment Period (Periodo Promedio de Pago)**
 
-The payment period has increased significantly from 54.64 days in 2021 to 89.2 days in 2024. NVIDIA is taking longer to pay its suppliers, potentially as a strategy to conserve cash or leverage supplier terms.
+The payment period has decreased from 62 days in 2023 to 47 days in 2024. NVIDIA is taking less to pay its suppliers, potentially as a strategy to conserve strong relationships with them.
 
 **6.Cash Conversion Cycle (Ciclo de Conversion de Efectivo)**
 
-The cash conversion cycle (CCC) has fluctuated, moving from a positive 8.03 days in 2021 to a negative value of -14.72 days in 2024. A negative CCC in 2024 indicates that NVIDIA collects cash from customers before paying suppliers, improving liquidity and working capital efficiency. This is a favorable trend for operational cash flow.
+The cash conversion cycle (CCC) has decreased on 2024 with 129 days, coming from a big increase in 152 days on 2023. This as a result of an Average Collection Period very low compared to the one on 2023.
 
 ## **Profitability**
 
 **1.Return on Assets (ROA)**
 
-OA has remained relatively stable, ranging between 0.26 in 2024 and 0.28 in 2022 and 2023. NVIDIA efficiently generates net income from its assets, maintaining consistency over the years. This reflects effective asset utilization in producing profits.
+ROA has remained relatively stable, until 2024 with a ROA reported of 0.45. NVIDIA efficiently generates net income from its assets. This reflects an effective asset utilization in producing profits on the last year.
 
 **2.Return on Equity (ROE)**
 
-ROE shows some fluctuations, peaking at 1.97 in 2022 and declining to 1.65 in 2024. NVIDIA generates significant returns for shareholders, but the slight decrease from 2022 to 2024 may indicate increased equity or reduced profitability relative to equity.
+ROE shows some fluctuations, but the peak of 2024 with 0.45 definitely stands out. NVIDIA generates significant returns for shareholders.
 
 **3.Gross Profit Margin (Margen de Utilidad Bruta)**
 
-The gross margin has varied, peaking at 3.37 in 2022 and declining to 3.17 in 2024, though still higher than 2.72 in 2023. NVIDIA's ability to manage production costs and pricing remains strong. However, the slight decline from 2022 suggests minor cost pressures or pricing adjustments.
+The gross margin has remained relatively stable, with a peak in 2024 of 0.73, coming from a slight decrease on 2023 of 0.57. NVIDIA's ability to manage production costs and pricing is getting stronger.
 
 **4.Net Profit Margin (Margen de Utilidad Neta)**
 
-The net margin has been stable, hovering between 0.24 and 0.26 over the years. NVIDIA consistently converts a substantial portion of its sales into net income, demonstrating strong overall profitability and cost management.
+The net margin is not the exception. With a peak in 2024 of 0.49 and a decrease of 0.16 in 2023, NVIDIA shows off pretty good work on this last year.
 
 # Financial Dashboard in Excel
 
