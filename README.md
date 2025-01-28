@@ -1,4 +1,4 @@
-# Financial_Ratio_Analysis_NVIDIA
+# Nvidia_Financial_Analysis
 In this project, I show Financial Ratios and their formulas from the last 4 fiscal years from NVIDIA using Financial Statements, one of the biggest and most important companies in the world nowadays. 
 
 I also included an analysis of the cash flow focused on 2023 and 2024. This is because, with the first analysis, the insights found motivated this due to the high improve from year to year.
