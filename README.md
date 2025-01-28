@@ -135,13 +135,10 @@ import pandas as pd
 ticker = "NVDA"  # Nvidia
 empresa = yf.Ticker(ticker)
 
-With the past analysis, we could see NVIDIA had and excellent last year. The reported 2024 was presumably better than 2023. The analysis will be focused on these 2 years, in order to see the management of the money in this last 2 years' scenario.
-
-
-
-
-
 cash_flow = empresa.balance_sheet
 cash_flow.to_csv('Nvidia_cash_flow.csv', index = True, sep=',', encoding='utf-8', header=True)
 ```
+
+With the past analysis, we could see NVIDIA had an excellent last year. The reported 2024 was presumably better than 2023. The analysis will be focused on these 2 years, to see the management of the money in this last 2 years' scenario.
+
 
