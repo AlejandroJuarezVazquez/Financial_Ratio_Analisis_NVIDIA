@@ -3,52 +3,71 @@ In this project, I show Financial Ratios and their formulas from the last 4 fisc
 
 I used a lot of tools for this analysis, such as Python and Pandas for downloading the financial states by using the Yahoo Finance API. Then, I used Excel for the analysis with all the financial ratios.
 
+# Extracting Nvidia Financial Statements with Python
+To extract the data i used the Yahoo Finance library in python and pandas to exporting the data as csv files.
+```python
+import yfinance as yf
+import pandas as pd
+
+ticker = "NVDA"  # Nvidia
+empresa = yf.Ticker(ticker)
+
+income_statement = empresa.financials
+
+income_statement.to_csv('Nvidia_income_statement.csv', index = True, sep=',', encoding='utf-8', header=True)
+
+balance_sheet = empresa.balance_sheet
+
+balance_sheet.to_csv('Nvidia_balance_sheet.csv', index = True, sep=',', encoding='utf-8', header=True)
+```
+
 # Financial Ratios
 The results from the analysis are the following:
 
-![image](https://github.com/user-attachments/assets/3768fa34-0da3-47ae-85c2-b5d60cf5d0b1)
+![image](https://github.com/user-attachments/assets/15c45acf-ce9c-4901-b19f-f5835f780361)
+
 
 ## **Liquidity**
 
-**1.Current Ratio (Razón de Efectivo)**
+**1.Current Ratio (Razón Circulante)**
 
-Even though we can see a slight diminution on the ratio from 2023 to 2024, it is higher than 1, meaning NVIDIA has a solid capacity to cover its current debts with current assets.
+Although Nvidia has been up and downing on this ratio, we can see the slight increase in current assets. This means Nvidia got $4.17 in 2024 of current assets to answer its current liabilities. 
 
 **2.Quick Ratio (Prueba Ácida)**
 
-This ratio shows a diminution from 8.68 in 2023 to 6.98 in 2024. Due to the excluded inventories from the ratio we can tell that even without them NVIDIA has enough cash and other current assets to cover its debts.
+This ratio, due to the excluded inventories, we can tell that Nvidia has enough liquidity to answer its current liabilities. Also, Nvidia should be careful with this, a quick ratio higher than 1  may mean a profitability drop.
 
 **3.Cash Ratio (Cash Ratio)**
 
-This ratio diminishes from 4.01 in 2021 to 3.12 in 2024, indicating the cash proportion is lower than before. It can be due to using it for operations, debt pay, or acquisitions.
+This ratio shows us the cash from the current assets that Nvidia got to answer its current liabilities. We can see that a big part of all current assets are from cash or equivalents.
 
 **4.Working Capital to Total Assets Ratio (KTSA)**
 
-This ratio has remained constant between 0.32 and 0.36 during this time. This suggests that NVIDIA keeps an equilibrated administration of its work capital depending on the structure of its assets.
+This ratio has remained constant between 0.40 and 0.36 during this time. This suggests that NVIDIA keeps an equilibrated administration of its work capital depending on the structure of its assets.
 
 ## **Solvency**
 
 **1.Debt Ratio (Razón de Endeudamiento)**
 
-The debt ratio has decreased steadily from 0.39 in 2021 to 0.29 in 2024. We can see that NVIDIA is reducing its reliance on debt financing, as only 29% of its assets are funded through liabilities in 2024. This indicates a conservative approach to leveraging and strong financial health.
+The debt ratio has decreased steadily from 0.46 in 2023 to 0.35 in 2024. We can see that NVIDIA is reducing its reliance on debt financing, as only 35% of its assets are funded through liabilities in 2024. This indicates a conservative approach to leveraging and strong financial health.
 
 **2.Interest Coverage Ratio (Razón de Cobertura de Intereses)**
 
-This ratio is exceptionally strong in 2022 and 2021, though no value is reported for 2024. A high interest coverage ratio suggests that NVIDIA has a significant capacity to meet its interest obligations. The company can comfortably handle its debt costs, reflecting low credit risk.
+This ratio has reported a historical peak in 2024, 132.59 reported from a 16.96 in the last year. This high-interest coverage ratio suggests that NVIDIA has a significant capacity to meet its interest obligations. The company can handle its debt costs, reflecting low credit risk.
 
 **3.Leverage Ratio (Apalancamiento)**
 
-The leverage ratio has fluctuated, peaking at 6.96 in 2022 and dropping to 6.41 in 2024. This higher leverage ratio indicates that a larger portion of NVIDIA's assets is funded by equity. The slight reduction in 2024 suggests a more balanced approach to equity and debt financing.
+The leverage ratio has not fluctuated much. The slight reduction in 2024 suggests a more balanced approach to equity and debt financing.
 
 ## **Rotation**
 
 **1.Asset Turnover Ratio (Rotacion de Activos)**
 
-The asset turnover ratio has remained stable, from 1.04 in 2021 to 1.12 in 2022, with a slight decline to 1.07 in 2024. NVIDIA maintains consistent efficiency in generating sales from its total assets, with minor variations likely reflecting changes in asset utilization or revenue growth.
+The asset turnover ratio has increased from 0.65 in 2023 to 0.93 in 2024. NVIDIA maintains consistent efficiency in generating sales from its total assets.
 
 **2.Inventory Turnover Ratio (Rotacion de Inventario)**
 
-This ratio peaked at 45.2 in 2022, indicating very efficient inventory management, but decreased to 28.87 in 2024. The decline may suggest slower inventory movement, possibly due to increased inventory levels or lower sales growth compared to previous years.
+This ratio peaked at 3.62 in 2022, indicating very efficient inventory management, but decreased to 28.87 in 2024. The decline may suggest slower inventory movement, possibly due to increased inventory levels or lower sales growth compared to previous years.
 
 **3.Average Inventory Period (Periodo Promedio de Inventario)**
 
@@ -84,17 +103,7 @@ The gross margin has varied, peaking at 3.37 in 2022 and declining to 3.17 in 20
 
 The net margin has been stable, hovering between 0.24 and 0.26 over the years. NVIDIA consistently converts a substantial portion of its sales into net income, demonstrating strong overall profitability and cost management.
 
-# Graphics and Auxiliary Tables
+# Financial Dashboard in Excel
 
-![RazonCirculanteGrafico](https://github.com/user-attachments/assets/325b48d5-cc27-4968-963d-cffc9cc26530)
-
-**Current Ratio Area Graphic**
-
-![ROA_ROE_ApalancamientoGrafico](https://github.com/user-attachments/assets/47d1c373-f4d9-424a-a231-cf0ebc5def8a)
-
-**Apilated Bars Graphics ROA, ROE-ROA & Leverage**
-
-![Utilidad_Operativa_Grafico](https://github.com/user-attachments/assets/b184f57a-c7a2-4d50-b365-3968c64e8331)
-
-**Cascade Graphic on Operative Utility**
+![image](https://github.com/user-attachments/assets/4ba2b5c5-d874-4429-872d-4c480c4ffb29)
 
