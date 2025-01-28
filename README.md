@@ -3,6 +3,20 @@ In this project, I show Financial Ratios and their formulas from the last 4 fisc
 
 I used a lot of tools for this analysis, such as Python and Pandas for downloading the financial states by using the Yahoo Finance API. Then, I used Excel for the analysis with all the financial ratios.
 
+# Financial Statements
+
+The NVIDIA's Financial Statements can be found on the Yahoo! Finance site. This is the link:
+
+https://finance.yahoo.com/quote/NVDA/financials/
+
+This is a small lookup to the statements:
+
+![image](https://github.com/user-attachments/assets/0913f79a-efdb-4688-bf87-8336c333f20c)
+
+![image](https://github.com/user-attachments/assets/59651c18-74fe-4cc8-91cf-6f997a7f5190)
+
+The complete statements can be found on this repository.
+
 # Extracting Nvidia Financial Statements with Python
 To extract the data i used the Yahoo Finance library in python and pandas to exporting the data as csv files.
 ```python
@@ -103,7 +117,23 @@ The gross margin has remained relatively stable, with a peak in 2024 of 0.73, co
 
 The net margin is not the exception. With a peak in 2024 of 0.49 and a decrease of 0.16 in 2023, NVIDIA shows off pretty good work on this last year.
 
+
 # Financial Dashboard in Excel
 
 ![image](https://github.com/user-attachments/assets/4ba2b5c5-d874-4429-872d-4c480c4ffb29)
+
+# Cash Flow Analysis
+
+For the Cash Flow Analysis I repeated the process for extracting the information:
+
+```python
+import yfinance as yf
+import pandas as pd
+
+ticker = "NVDA"  # Nvidia
+empresa = yf.Ticker(ticker)
+
+cash_flow = empresa.balance_sheet
+cash_flow.to_csv('Nvidia_cash_flow.csv', index = True, sep=',', encoding='utf-8', header=True)
+```
 
