@@ -1,7 +1,7 @@
 # Nvidia_Financial_Analysis
 In this project, I show Financial Ratios and their formulas from the last 4 fiscal years from NVIDIA using Financial Statements, one of the biggest and most important companies in the world nowadays. 
 
-I used a lot of tools for this analysis, such as Python and Pandas for downloading the financial states by using the Yahoo Finance API. Then, I used Excel for the study with all the financial ratios.
+I used a lot of tools for this analysis, such as Python and Pandas for downloading the financial states by using the Yahoo Finance Library. Then, I used Excel for the study with all the financial ratios.
 
 # Financial Statements
 
