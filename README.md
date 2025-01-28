@@ -1,5 +1,7 @@
 # Financial_Ratio_Analisis_NVIDIA
-In this project, I show Financial Ratios and their formulas from the last 4 fiscal years from Nvidia, one of the biggest and most important companies in the world nowadays. 
+In this project, I show Financial Ratios and their formulas from the last 4 fiscal years from NVIDIA using Financial Statements, one of the biggest and most important companies in the world nowadays. 
+
+I also included an analysis for the cash flow.
 
 I used a lot of tools for this analysis, such as Python and Pandas for downloading the financial states by using the Yahoo Finance API. Then, I used Excel for the analysis with all the financial ratios.
 
@@ -124,7 +126,7 @@ The net margin is not the exception. With a peak in 2024 of 0.49 and a decrease 
 
 # Cash Flow Analysis
 
-For the Cash Flow Analysis I repeated the process for extracting the information:
+For the Cash Flow Analysis, I repeated the process of extracting the information:
 
 ```python
 import yfinance as yf
@@ -132,6 +134,12 @@ import pandas as pd
 
 ticker = "NVDA"  # Nvidia
 empresa = yf.Ticker(ticker)
+
+With the past analysis, we could see NVIDIA had and excellent last year. The reported 2024 was presumably better than 2023. The analysis will be focused on these 2 years, in order to see the management of the money in this last 2 years' scenario.
+
+
+
+
 
 cash_flow = empresa.balance_sheet
 cash_flow.to_csv('Nvidia_cash_flow.csv', index = True, sep=',', encoding='utf-8', header=True)
